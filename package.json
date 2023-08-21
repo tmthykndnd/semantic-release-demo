@@ -6,5 +6,8 @@
   "license": "MIT",
   "publishConfig": {
     "access": "public"
+  },
+  "devDependencies": {
+    "semantic-release": "^21.0.9"
   }
 }
